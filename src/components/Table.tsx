@@ -66,7 +66,7 @@ const TableLayout:React.FC=()=> {
               },
               {
                      title:"Tags",
-                     key:'key',
+                     key:'tags',
                      dataIndex:'tags',
               }
        ]
